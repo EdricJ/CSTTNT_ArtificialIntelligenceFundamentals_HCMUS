@@ -1,0 +1,19 @@
+2
+13 26 2 30
+13 23 9 4
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x x        x     x   x    x           x
+x x x      x     x x x x  x xxo    x  x
+x x x   x  x     x x x x  x x x    x  x
+xSx x   x  x  x  x x x x  xx  x       x
+x x x   x  x  x  x x x x  x   x        
+x x x   x  x  x  x x x x  xx  x    x  x
+x x x   x  x  x  x x x x  x        x  x
+x x x   x  x  x  x x x x  x        x  x
+x x o   x x  x  x x x x  x         x  x
+x x x   x  x  x  x x x x  x        x  x
+x x x   x  x  x  x x x x  x  xxxx     x
+x x x   x  x  x  x x x x  x           x
+x   x      x  x  x x x i  i  x        x
+x                                     x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
