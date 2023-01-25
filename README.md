@@ -40,6 +40,10 @@ Links:
 
 * https://muthu.co/understanding-the-classification-report-in-sklearn/
 
+* https://colab.research.google.com/drive/1WzH6gN_yUsbfQ5B7_9j8tcAMlbUEszbL?usp=share_link
+
+* https://colab.research.google.com/drive/1DeREOe7RzNsQ0s2DOMF5x6lrx5oMXBui?usp=share_link
+
 
 Exam:
 * https://drive.google.com/drive/u/0/folders/1gjPJ2hHf-2Cl3BfxecwGBxy_UVNHZuK3
