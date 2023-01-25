@@ -54,7 +54,7 @@ Exam:
 
 * https://www.youtube.com/watch?v=vSJre8woJJE
 
-*https://www.youtube.com/watch?v=HwDqtQQlcaU
+* https://www.youtube.com/watch?v=HwDqtQQlcaU
 
 * https://huuvinhfit.files.wordpress.com/2015/01/chuong-5-thoa-man-rang-buoc.pdf
 
