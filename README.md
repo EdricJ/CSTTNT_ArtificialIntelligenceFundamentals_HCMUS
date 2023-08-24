@@ -79,3 +79,6 @@ Exam:
 * https://drive.google.com/drive/folders/1RMhi95Ymx-Uyb8jGUKyF8q-azpMhv9i-
 
 * https://drive.google.com/file/d/1uxRQpzpXhdtYYDkIyiaXHsl5TMfSu89r/view
+
+Output:
+* https://studenthcmusedu-my.sharepoint.com/:f:/g/personal/20120201_student_hcmus_edu_vn/EhTCcU2pumZOi7MBsyHfzSIBDLKGasxYWDCTpqX-igeMBQ?e=jOfQab
